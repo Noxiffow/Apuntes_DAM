@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "c4762b7450814cfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a26150cc120eb13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a128b7570389035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BBDD 2024/2024-09-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab20c4ca152da4b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f87beb6f7a22cbb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc30b2cb41d77e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6be1beee0ec99622",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "980d1d180934d9f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bdefdba2440659f",
+    "type": "split",
+    "children": [
+      {
+        "id": "36776ffb7c677930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00847e931b77b8e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BBDD 2024/2024-09-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b11a72b8343e7935",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BBDD 2024/2024-09-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0da49f78430bf6cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "435c30f7929ca7e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BBDD 2024/2024-09-17.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2a128b7570389035",
+  "lastOpenFiles": [
+    "BBDD 2024/2024-09-16.md",
+    "Images/Pasted image 20240917173009.png",
+    "Images/Pasted image 20240917174123.png",
+    "Welcome.md",
+    "Images",
+    "Images/Pasted image 20240917180107.png",
+    "BBDD 2024/2024-09-17.md",
+    "BBDD 2024"
+  ]
+}
